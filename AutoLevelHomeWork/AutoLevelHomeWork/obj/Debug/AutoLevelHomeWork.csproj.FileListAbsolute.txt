@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.exe.config
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.exe
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\bin\Debug\AutoLevelHomeWork.pdb
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.exe
+C:\Users\User\source\repos\AutoLevelHomeWork\AutoLevelHomeWork\obj\Debug\AutoLevelHomeWork.pdb
